@@ -1,0 +1,34 @@
+2018-06-22 14:15:56,338 - root - INFO - #### HubArchiveCreator: Start ####
+
+2018-06-22 14:15:56,338 - root - DEBUG - ---- Welcome in HubArchiveCreator Debug Mode ----
+
+2018-06-22 14:15:56,339 - root - DEBUG - JSON parameters: {"extra_files_path": "/home/tianwei/Galaxy/galaxy/database/jobs_directory/000/15/dataset_17_files", "debug_mode": "false", "genome_name": "unknown", "fasta": {"false_path": "/home/tianwei/Galaxy/galaxy/database/files/000/dataset_4.dat", "name": "Index.fa"}, "tool_directory": "/home/tianwei/Galaxy/shed_tools/toolshed.g2.bx.psu.edu/repos/rmarenco/hubarchivecreator/9c5d82d3c87e/hubarchivecreator", "user_email": "303120291@qq.com"}
+
+
+2018-06-22 14:15:56,339 - root - INFO - #### HubArchiveCreator: Creating the Track Hub folder ####
+
+2018-06-22 14:15:56,349 - root - DEBUG - Calling faToTwoBit:
+2018-06-22 14:15:56,349 - root - DEBUG - ['faToTwoBit', u'/home/tianwei/Galaxy/galaxy/database/files/000/dataset_4.dat', '/home/tianwei/Galaxy/galaxy/database/tmp/tmpmlkAU3']
+2018-06-22 14:15:56,349 - root - DEBUG - ---------
+2018-06-22 14:16:00,937 - root - DEBUG - 	
+2018-06-22 14:16:00,937 - root - DEBUG - Calling twoBitInfo:
+2018-06-22 14:16:00,937 - root - DEBUG - ['twoBitInfo', '/home/tianwei/Galaxy/galaxy/database/tmp/tmpmlkAU3', '/home/tianwei/Galaxy/galaxy/database/tmp/tmpnnbG_Q']
+2018-06-22 14:16:00,938 - root - DEBUG - ---------
+2018-06-22 14:16:00,940 - root - DEBUG - 	
+2018-06-22 14:16:00,940 - root - DEBUG - Calling sort:
+2018-06-22 14:16:00,941 - root - DEBUG - ['sort', '-k2rn', '/home/tianwei/Galaxy/galaxy/database/tmp/tmpnnbG_Q', '-o', '/home/tianwei/Galaxy/galaxy/database/tmp/tmpO97fdq.chrom.sizes']
+2018-06-22 14:16:00,941 - root - DEBUG - ---------
+2018-06-22 14:16:00,945 - root - DEBUG - 	
+2018-06-22 14:16:01,069 - root - INFO - #### HubArchiveCreator: Preparing track data ####
+
+2018-06-22 14:16:01,069 - root - DEBUG - ----- End of all_datatype_dictionary processing -----
+2018-06-22 14:16:01,070 - root - INFO - #### HubArchiveCreator: Adding tracks to Track Hub ####
+
+2018-06-22 14:16:01,070 - root - DEBUG - ----- Beginning of Track adding processing -----
+2018-06-22 14:16:01,070 - root - DEBUG - ----- End of Track adding processing -----
+2018-06-22 14:16:01,070 - root - INFO - #### HubArchiveCreator: Creating the HTML file ####
+
+2018-06-22 14:16:01,077 - root - DEBUG - ---- End of HubArchiveCreator Debug Mode: Bye! ----
+
+2018-06-22 14:16:01,077 - root - INFO - #### HubArchiveCreator: Congratulation! Assembly Hub is created! ####
+
