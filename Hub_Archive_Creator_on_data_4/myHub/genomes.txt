@@ -2,7 +2,7 @@ genome unknown
 trackDb https://raw.githubusercontent.com/GuiTony/RGBforGZ/master/Hub_Archive_Creator_on_data_4/myHub/unknown/trackDb.txt
 groups https://raw.githubusercontent.com/GuiTony/RGBforGZ/master/Hub_Archive_Creator_on_data_4/myHub/unknown/groups.txt
 description unknown
-twoBitPath https://raw.githubusercontent.com/GuiTony/RGBforGZ/master/Hub_Archive_Creator_on_data_4/myHub/unknown.2bit
+twoBitPath https://raw.githubusercontent.com/GuiTony/RGBforGZ/master/Hub_Archive_Creator_on_data_4/myHub/unknown/unknown.2bit
 organism unknown
 defaultPos 1
 orderKey 4500
