@@ -1,0 +1,6 @@
+hub gonrampUnknown
+shortLabel unknown
+longLabel unknown
+genomesFile genomes.txt
+email 303120291@qq.com
+descriptionUrl unknown.html
