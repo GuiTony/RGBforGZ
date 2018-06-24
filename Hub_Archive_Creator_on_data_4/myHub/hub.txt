@@ -1,6 +1,6 @@
 hub gonrampUnknown
 shortLabel unknown
 longLabel unknown
-genomesFile https://rawgit.com/GuiTony/RGBforGZ/blob/master/Hub_Archive_Creator_on_data_4/myHub/genomes.txt
+genomesFile https://raw.githubusercontent.com/GuiTony/RGBforGZ/master/Hub_Archive_Creator_on_data_4/myHub/genomes.txt
 email 303120291@qq.com
 descriptionUrl https://rawgit.com/GuiTony/RGBforGZ/blob/master/Hub_Archive_Creator_on_data_4/myHub/unknown.html
