@@ -1,10 +1,10 @@
 genome unknown
-trackDb unknown/trackDb.txt
-groups unknown/groups.txt
+trackDb https://rawgit.com/GuiTony/RGBforGZ/blob/master/Hub_Archive_Creator_on_data_4/myHub/unknown/trackDb.txt
+groups https://rawgit.com/GuiTony/RGBforGZ/blob/master/Hub_Archive_Creator_on_data_4/myHub/unknown/groups.txt
 description unknown
-twoBitPath unknown/unknown.2bit
+twoBitPath https://rawgit.com/GuiTony/RGBforGZ/blob/master/Hub_Archive_Creator_on_data_4/myHub/unknown/unknown.2bit
 organism unknown
 defaultPos 1
 orderKey 4500
 scientificName unknown
-htmlPath unknown/description.html
+htmlPath https://rawgit.com/GuiTony/RGBforGZ/blob/master/Hub_Archive_Creator_on_data_4/myHub/unknown/description.html
