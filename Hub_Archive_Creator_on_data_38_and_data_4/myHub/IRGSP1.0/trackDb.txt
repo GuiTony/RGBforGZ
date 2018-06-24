@@ -1,0 +1,14 @@
+
+track gonramp_H3K4me3log2rtio_bw_bigwig
+longLabel H3K4m3
+shortLabel H3K4m3
+bigDataUrl tracks/H3K4me3log2rtio.bw.bigwig
+visibility full
+priority 10
+color 0,176,80
+group histone
+type bigWig -9.147200 11.894000
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+

@@ -1,0 +1,20 @@
+DEBUG:root:#### Welcome in HubArchiveCreator Debug Mode ####
+
+DEBUG:root:Calling faToTwoBit:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:Calling twoBitInfo:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:Calling sort:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_41.dat
+DEBUG:root:data_value: {u'long_label': u'H3K4m3', u'name': u'H3K4me3log2rtio.bw', u'database': u'', u'track_color': u'#00b050', u'group_name': u'Histone', u'order_index': u'10'}
+DEBUG:root:----- End of all_datatype_dictionary processing -----
+DEBUG:root:all_datatype_ordered_dictionary keys are: [<BigWig.BigWig object at 0x7f81ef0b1a10>]
+DEBUG:root:----- Beginning of Track adding processing -----
+DEBUG:root:We just added in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/42/dataset_42_files/myHub/IRGSP1.0/groups.txt the group Histone
+DEBUG:root:We just added track gonramp_H3K4me3log2rtio_bw_bigwig (in group histone)
+DEBUG:root:----- End of Track adding processing -----
+DEBUG:root:#### End of HubArchiveCreator Debug Mode: Bye! ####

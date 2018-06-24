@@ -1,0 +1,5 @@
+name histone
+label Histone
+priority 2
+defaultIsClosed 0
+
