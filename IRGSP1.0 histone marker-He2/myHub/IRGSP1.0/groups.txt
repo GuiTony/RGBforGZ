@@ -1,0 +1,5 @@
+name histonemarker
+label HistoneMarker
+priority 2
+defaultIsClosed 0
+

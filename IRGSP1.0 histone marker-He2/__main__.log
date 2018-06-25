@@ -1,0 +1,28 @@
+DEBUG:root:#### Welcome in HubArchiveCreator Debug Mode ####
+
+DEBUG:root:Calling faToTwoBit:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:Calling twoBitInfo:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:Calling sort:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_49.dat
+DEBUG:root:data_value: {u'long_label': u'H3K4me3', u'name': u'H3K4me3.bigwig', u'database': u'', u'track_color': u'#ff0000', u'group_name': u'HistoneMarker', u'order_index': u'10'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_50.dat
+DEBUG:root:data_value: {u'long_label': u'H3K9ac', u'name': u'H3K9ac.bigwig', u'database': u'', u'track_color': u'#4bacc6', u'group_name': u'HistoneMarker', u'order_index': u'11'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_51.dat
+DEBUG:root:data_value: {u'long_label': u'H3K27me3', u'name': u'H3K27me3.bigwig', u'database': u'', u'track_color': u'#8064a2', u'group_name': u'HistoneMarker', u'order_index': u'12'}
+DEBUG:root:----- End of all_datatype_dictionary processing -----
+DEBUG:root:all_datatype_ordered_dictionary keys are: [<BigWig.BigWig object at 0x7ff64bde6b50>, <BigWig.BigWig object at 0x7ff64bde6a10>, <BigWig.BigWig object at 0x7ff64bde6c50>]
+DEBUG:root:----- Beginning of Track adding processing -----
+DEBUG:root:We just added in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/55/dataset_55_files/myHub/IRGSP1.0/groups.txt the group HistoneMarker
+DEBUG:root:We just added track gonramp_H3K9ac_bigwig_bigwig (in group histonemarker)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/55/dataset_55_files/myHub/IRGSP1.0/groups.txt the group HistoneMarker
+DEBUG:root:We just added track gonramp_H3K4me3_bigwig_bigwig (in group histonemarker)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/55/dataset_55_files/myHub/IRGSP1.0/groups.txt the group HistoneMarker
+DEBUG:root:We just added track gonramp_H3K27me3_bigwig_bigwig (in group histonemarker)
+DEBUG:root:----- End of Track adding processing -----
+DEBUG:root:#### End of HubArchiveCreator Debug Mode: Bye! ####
