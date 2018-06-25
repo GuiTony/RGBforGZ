@@ -1,0 +1,40 @@
+
+track gonramp_H3K9ac_bigwig_bigwig
+longLabel H3K9ac
+shortLabel H3K9ac
+bigDataUrl tracks/H3K9ac.bigwig.bigwig
+visibility full
+priority 11
+color 128,100,162
+group histone_markers
+type bigWig 0.000000 11687.500000
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_H3K27me3_bigwig_bigwig
+longLabel H3K27me3
+shortLabel H3K27me3
+bigDataUrl tracks/H3K27me3.bigwig.bigwig
+visibility full
+priority 12
+color 147,137,83
+group histone_markers
+type bigWig 0.000000 23953.599609
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_Oryza_sativa_IRGSP_1_0_38_gff3_bb
+longLabel Genes
+shortLabel Genes
+bigDataUrl tracks/Oryza_sativa.IRGSP-1.0.38.gff3.bb
+type bigGenePred
+visibility dense
+thickDrawItem off
+priority 20
+color 0,0,0
+group genes
+searchIndex name
