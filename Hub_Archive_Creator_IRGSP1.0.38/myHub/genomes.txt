@@ -1,0 +1,10 @@
+genome Rice_Genome_Browser-IRGSP1.0.38
+trackDb Rice_Genome_Browser-IRGSP1.0.38/trackDb.txt
+groups Rice_Genome_Browser-IRGSP1.0.38/groups.txt
+description Rice_Genome_Browser-IRGSP1.0.38
+twoBitPath Rice_Genome_Browser-IRGSP1.0.38/Rice_Genome_Browser-IRGSP1.0.38.2bit
+organism Rice_Genome_Browser-IRGSP1.0.38
+defaultPos 1
+orderKey 4500
+scientificName Rice_Genome_Browser-IRGSP1.0.38
+htmlPath Rice_Genome_Browser-IRGSP1.0.38/description.html

@@ -1,0 +1,6 @@
+hub gonrampRice_Genome_Browser-Irgsp1.0.38
+shortLabel Rice_Genome_Browser-IRGSP1.0.38
+longLabel Rice_Genome_Browser-IRGSP1.0.38
+genomesFile genomes.txt
+email 303120291@qq.com
+descriptionUrl Rice_Genome_Browser-IRGSP1.0.38.html

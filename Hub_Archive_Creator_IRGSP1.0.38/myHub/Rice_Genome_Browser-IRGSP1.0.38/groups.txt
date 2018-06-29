@@ -1,0 +1,20 @@
+name transcripts
+label Transcripts
+priority 2
+defaultIsClosed 0
+
+name datas_from_he
+label Datas from He
+priority 2
+defaultIsClosed 0
+
+name dhs-seq_data
+label DHS-seq data
+priority 2
+defaultIsClosed 0
+
+name datas_from_su-5d_seedling_dark
+label Datas from Su-5d seedling_dark
+priority 2
+defaultIsClosed 0
+
