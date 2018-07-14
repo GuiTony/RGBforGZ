@@ -1,0 +1,180 @@
+
+track gonramp_Oryza_sativa_IRGSP_1_0_38_gff3_bb
+longLabel Genes
+shortLabel Genes
+bigDataUrl tracks/Oryza_sativa.IRGSP-1.0.38.gff3.bb
+type bigGenePred
+visibility dense
+thickDrawItem off
+priority 10
+color 0,0,0
+group genes
+searchIndex name
+
+track gonramp_H3K4me3_bigwig_bigwig
+longLabel H3K4me3
+shortLabel H3K4me3
+bigDataUrl tracks/H3K4me3.bigwig.bigwig
+visibility full
+priority 20
+color 31,73,125
+group he
+type bigWig 0.000000 10126.299805
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_H3K27me3_bigwig_bigwig
+longLabel H3K27me3
+shortLabel H3K27me3
+bigDataUrl tracks/H3K27me3.bigwig.bigwig
+visibility full
+priority 21
+color 79,129,189
+group he
+type bigWig 0.000000 23953.599609
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_H3K9ac_bigwig_bigwig
+longLabel H3K9ac
+shortLabel H3K9ac
+bigDataUrl tracks/H3K9ac.bigwig.bigwig
+visibility full
+priority 22
+color 192,80,77
+group he
+type bigWig 0.000000 11687.500000
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_RNA_seq_He_bigwig_bigwig
+longLabel RNA-seq He
+shortLabel RNA-seq He
+bigDataUrl tracks/RNA-seq_He.bigwig.bigwig
+visibility full
+priority 23
+color 112,48,160
+group he
+type bigWig 0.000000 70768.398438
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_H3K9ac_5d_bigwig_bigwig
+longLabel H3K9ac 5d
+shortLabel H3K9ac 5d
+bigDataUrl tracks/H3K9ac_5d.bigwig.bigwig
+visibility full
+priority 33
+color 242,220,219
+group su_zhen
+type bigWig 0.000000 934.760010
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_H3K4me3_5d_bigwig_bigwig
+longLabel H3K4me3 5d
+shortLabel H3K4me3 5d
+bigDataUrl tracks/H3K4me3-5d.bigwig.bigwig
+visibility full
+priority 32
+color 198,217,240
+group su_zhen
+type bigWig 0.000000 247.016998
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_H3K4me2_5d_bigwig_bigwig
+longLabel H3K4me2 5d
+shortLabel H3K4me2 5d
+bigDataUrl tracks/H3K4me2-5d.bigwig.bigwig
+visibility full
+priority 31
+color 235,241,221
+group su_zhen
+type bigWig 0.000000 253.169006
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_DHS_seq_bigwig_bigwig
+longLabel DHS-seq
+shortLabel DHS-seq
+bigDataUrl tracks/DHS-seq.bigwig.bigwig
+visibility full
+priority 30
+color 192,0,0
+group su_zhen
+type bigWig 0.000000 133497.000000
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_bamCoverage_on_data_100_bigwig
+longLabel 2018-7-14 3
+shortLabel 2018-7-14 3
+bigDataUrl tracks/bamCoverage_on_data_100.bigwig
+visibility full
+priority 42
+color 151,72,6
+group 2018-7-14
+type bigWig 0.000000 6133.029785
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_bamCoverage_on_data_98_bigwig
+longLabel 2018-7-14 1 2
+shortLabel 2018-7-14 1 2
+bigDataUrl tracks/bamCoverage_on_data_98.bigwig
+visibility full
+priority 40
+color 63,49,81
+group 2018-7-14
+type bigWig 0.000000 4106.540039
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_H3K27ac_5d_bigwig_bigwig
+longLabel H3K27ac 5d
+shortLabel H3K27ac 5d
+bigDataUrl tracks/H3K27ac_5d.bigwig.bigwig
+visibility full
+priority 34
+color 253,234,218
+group su_zhen
+type bigWig 0.000000 378.674988
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_bamCoverage_on_data_99_bigwig
+longLabel 2018-7-14 2
+shortLabel 2018-7-14 2
+bigDataUrl tracks/bamCoverage_on_data_99.bigwig
+visibility full
+priority 41
+color 32,88,103
+group 2018-7-14
+type bigWig 0.000000 4204.529785
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+

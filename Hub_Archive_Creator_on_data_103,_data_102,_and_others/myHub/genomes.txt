@@ -1,0 +1,10 @@
+genome IRGSP1.0.38
+trackDb IRGSP1.0.38/trackDb.txt
+groups IRGSP1.0.38/groups.txt
+description IRGSP1.0.38
+twoBitPath IRGSP1.0.38/IRGSP1.0.38.2bit
+organism IRGSP1.0.38
+defaultPos 1
+orderKey 4500
+scientificName IRGSP1.0.38
+htmlPath IRGSP1.0.38/description.html

@@ -1,0 +1,86 @@
+DEBUG:root:#### Welcome in HubArchiveCreator Debug Mode ####
+
+DEBUG:root:Calling faToTwoBit:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:Calling twoBitInfo:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:Calling sort:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_59.dat
+DEBUG:root:data_value: {u'long_label': u'H3K4me3', u'name': u'H3K4me3.bigwig', u'database': u'', u'track_color': u'#1f497d', u'group_name': u'He', u'order_index': u'20'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_61.dat
+DEBUG:root:data_value: {u'long_label': u'H3K27me3', u'name': u'H3K27me3.bigwig', u'database': u'', u'track_color': u'#4f81bd', u'group_name': u'He', u'order_index': u'21'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_60.dat
+DEBUG:root:data_value: {u'long_label': u'H3K9ac', u'name': u'H3K9ac.bigwig', u'database': u'', u'track_color': u'#c0504d', u'group_name': u'He', u'order_index': u'22'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_70.dat
+DEBUG:root:data_value: {u'long_label': u'RNA-seq_He', u'name': u'RNA-seq_He.bigwig', u'database': u'', u'track_color': u'#7030a0', u'group_name': u'He', u'order_index': u'23'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_72.dat
+DEBUG:root:data_value: {u'long_label': u'DHS-seq', u'name': u'DHS-seq.bigwig', u'database': u'', u'track_color': u'#c00000', u'group_name': u'Su Zhen', u'order_index': u'30'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_73.dat
+DEBUG:root:data_value: {u'long_label': u'H3K4me2_5d', u'name': u'H3K4me2-5d.bigwig', u'database': u'', u'track_color': u'#ebf1dd', u'group_name': u'Su Zhen', u'order_index': u'31'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_74.dat
+DEBUG:root:data_value: {u'long_label': u'H3K4me3_5d', u'name': u'H3K4me3-5d.bigwig', u'database': u'', u'track_color': u'#c6d9f0', u'group_name': u'Su Zhen', u'order_index': u'32'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_75.dat
+DEBUG:root:data_value: {u'long_label': u'H3K9ac_5d', u'name': u'H3K9ac_5d.bigwig', u'database': u'', u'track_color': u'#f2dcdb', u'group_name': u'Su Zhen', u'order_index': u'33'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_76.dat
+DEBUG:root:data_value: {u'long_label': u'H3K27ac_5d', u'name': u'H3K27ac_5d.bigwig', u'database': u'', u'track_color': u'#fdeada', u'group_name': u'Su Zhen', u'order_index': u'34'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_105.dat
+DEBUG:root:data_value: {u'long_label': u'2018-7-14_1_2', u'name': u'bamCoverage_on_data_98', u'database': u'', u'track_color': u'#3f3151', u'group_name': u'2018-7-14', u'order_index': u'40'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_106.dat
+DEBUG:root:data_value: {u'long_label': u'2018-7-14_2', u'name': u'bamCoverage_on_data_99', u'database': u'', u'track_color': u'#205867', u'group_name': u'2018-7-14', u'order_index': u'41'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_107.dat
+DEBUG:root:data_value: {u'long_label': u'2018-7-14_3', u'name': u'bamCoverage_on_data_100', u'database': u'', u'track_color': u'#974806', u'group_name': u'2018-7-14', u'order_index': u'42'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_25.dat
+DEBUG:root:data_value: {u'long_label': u'Genes', u'name': u'Oryza_sativa.IRGSP-1.0.38.gff3', u'database': u'', u'track_color': u'#000000', u'group_name': u'Genes', u'order_index': u'10'}
+DEBUG:root:Calling gff3ToGenePred:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:Calling genePredToBigGenePred:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:Calling sort:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:sorted_bed_file_name: /home/tianwei/Galaxy/galaxy/database/tmp/tmpfUY2tl.sorted.bigGenePred
+DEBUG:root:chrom_sizes_file_name: /home/tianwei/Galaxy/galaxy/database/tmp/tmp46MIOI.chrom.sizes
+DEBUG:root:big_bed_file_name: /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/104/dataset_108_files/myHub/IRGSP1.0.38/tracks/Oryza_sativa.IRGSP-1.0.38.gff3.bb
+DEBUG:root:typeOption: bed12+8
+DEBUG:root:autoSql: /home/tianwei/Galaxy/shed_tools/toolshed.g2.bx.psu.edu/repos/rmarenco/hubarchivecreator/cdd33c5c8ac1/hubarchivecreator/bigGenePred.as
+DEBUG:root:tab option: True
+DEBUG:root:Calling bedToBigBed:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:----- End of all_datatype_dictionary processing -----
+DEBUG:root:all_datatype_ordered_dictionary keys are: [<Gff3.Gff3 object at 0x7f37017ed710>, <BigWig.BigWig object at 0x7f37017eda50>, <BigWig.BigWig object at 0x7f37017edb90>, <BigWig.BigWig object at 0x7f37017edcd0>, <BigWig.BigWig object at 0x7f37017edb50>, <BigWig.BigWig object at 0x7f37017f91d0>, <BigWig.BigWig object at 0x7f37017f9050>, <BigWig.BigWig object at 0x7f37017ede90>, <BigWig.BigWig object at 0x7f37017eded0>, <BigWig.BigWig object at 0x7f37017ed210>, <BigWig.BigWig object at 0x7f37017f9450>, <BigWig.BigWig object at 0x7f37017f9310>, <BigWig.BigWig object at 0x7f37017ed5d0>]
+DEBUG:root:----- Beginning of Track adding processing -----
+DEBUG:root:We just added in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/104/dataset_108_files/myHub/IRGSP1.0.38/groups.txt the group Genes
+DEBUG:root:We just added track gonramp_Oryza_sativa_IRGSP_1_0_38_gff3_bb (in group genes)
+DEBUG:root:We just added in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/104/dataset_108_files/myHub/IRGSP1.0.38/groups.txt the group He
+DEBUG:root:We just added track gonramp_H3K4me3_bigwig_bigwig (in group he)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/104/dataset_108_files/myHub/IRGSP1.0.38/groups.txt the group He
+DEBUG:root:We just added track gonramp_H3K27me3_bigwig_bigwig (in group he)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/104/dataset_108_files/myHub/IRGSP1.0.38/groups.txt the group He
+DEBUG:root:We just added track gonramp_H3K9ac_bigwig_bigwig (in group he)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/104/dataset_108_files/myHub/IRGSP1.0.38/groups.txt the group He
+DEBUG:root:We just added track gonramp_RNA_seq_He_bigwig_bigwig (in group he)
+DEBUG:root:We just added in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/104/dataset_108_files/myHub/IRGSP1.0.38/groups.txt the group Su Zhen
+DEBUG:root:We just added track gonramp_H3K9ac_5d_bigwig_bigwig (in group su_zhen)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/104/dataset_108_files/myHub/IRGSP1.0.38/groups.txt the group Su Zhen
+DEBUG:root:We just added track gonramp_H3K4me3_5d_bigwig_bigwig (in group su_zhen)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/104/dataset_108_files/myHub/IRGSP1.0.38/groups.txt the group Su Zhen
+DEBUG:root:We just added track gonramp_H3K4me2_5d_bigwig_bigwig (in group su_zhen)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/104/dataset_108_files/myHub/IRGSP1.0.38/groups.txt the group Su Zhen
+DEBUG:root:We just added track gonramp_DHS_seq_bigwig_bigwig (in group su_zhen)
+DEBUG:root:We just added in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/104/dataset_108_files/myHub/IRGSP1.0.38/groups.txt the group 2018-7-14
+DEBUG:root:We just added track gonramp_bamCoverage_on_data_100_bigwig (in group 2018-7-14)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/104/dataset_108_files/myHub/IRGSP1.0.38/groups.txt the group 2018-7-14
+DEBUG:root:We just added track gonramp_bamCoverage_on_data_98_bigwig (in group 2018-7-14)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/104/dataset_108_files/myHub/IRGSP1.0.38/groups.txt the group Su Zhen
+DEBUG:root:We just added track gonramp_H3K27ac_5d_bigwig_bigwig (in group su_zhen)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/104/dataset_108_files/myHub/IRGSP1.0.38/groups.txt the group 2018-7-14
+DEBUG:root:We just added track gonramp_bamCoverage_on_data_99_bigwig (in group 2018-7-14)
+DEBUG:root:----- End of Track adding processing -----
+DEBUG:root:#### End of HubArchiveCreator Debug Mode: Bye! ####
